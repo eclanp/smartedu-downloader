@@ -1,7 +1,7 @@
-from downloader import download
+from downloader import executor
 
 def main():
-    download()
+    executor()
 
 if __name__ == "__main__":
     main()
